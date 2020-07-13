@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there <img src='assets/hey.gif' width='35px' height='25px'>
 
-I'm Pranshi, a self-motivated individual with interest in Technology. I'm an Open-source enthusiast with skills in Python, C, and Frontend Development.
+<p style="font-family:Georgia">
+I'm <b>Pranshi</b>, a self-motivated individual with interest in <b>Technology</b>. I'm an Open-source enthusiast with skills in <b>Python</b>, <b>C</b>, and <b>Frontend Development</b>. I turn <em>coffee into code</em>. 😉
+</p>
 
-<!--
-**pranshi112/pranshi112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='assets/code.gif' width='65px' height='80px'>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on various Open-source projects.
-- 📫 How to reach me: Shoot me an email at apranshi11@gmail.com
-- ⚡ Fun fact: I don't always study, sometimes it's just ___Netflix and Chill___.
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ... -->
-
+- <img src='assets/dsa.gif' width='30px' height='35px'>  I’m currently learning Data Structures and Algorithms.
+- <img src='assets/collaborate.gif' width='30px' height='15px'> I’m looking to collaborate on various Open-source projects.
+- <img src='assets/mail.gif' width='30px' height='20px'>  How to reach me: Shoot me an email at apranshi11@gmail.com
+- <img src='assets/fun.gif' width='25px' height='20px'> Fun fact: I don't always study, sometimes it's just <img src='assets/netflix.gif' width='55px' height='25px'>
