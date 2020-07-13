@@ -1,4 +1,5 @@
 ### Hi there <img src='https://github.com/pranshi112/pranshi112/blob/master/assets/hey.gif' width='35px' height='25px'>
+---
 
 <p style="font-family:Georgia">
 I'm <b>Pranshi</b>, a self-motivated individual with interest in <b>Technology</b>. I'm an Open-source enthusiast with skills in <b>Python</b>, <b>C</b>, and <b>Frontend Development</b>. I turn <em>coffee into code</em>. 😉
