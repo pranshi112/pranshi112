@@ -22,3 +22,6 @@ I'm <b>Pranshi</b>, a self-motivated individual with an interest in <b>Technolog
   <a href="mailto:apranshi11@gmail.com">
     <img align="left" alt="Pranshi Jindal | Gmail" width="26px" src="https://github.com/pranshi112/pranshi112/blob/master/assets/gmail.svg" />
   </a>
+  <a href="https://medium.com/@pranshi112">
+    <img align="left" alt="Pranshi Jindal | Medium" width="24px" src="https://github.com/pranshi112/pranshi112/blob/master/assets/medium.svg" />
+  </a>
