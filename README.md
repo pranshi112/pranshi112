@@ -2,7 +2,8 @@
 ---
 
 <p>
-I'm <b>Pranshi</b>, a self-motivated individual with an interest in <b>Technology</b>. I'm an Open-source enthusiast with skills in <b>Python</b>, <b>C</b>, and <b>Frontend Development</b>.
+I'm <b>Pranshi</b>, a self-motivated individual with an interest in <b>Technology</b>.<br>
+I'm an Open-source enthusiast with skills in <b>Python</b>, <b>C</b>, and <b>Frontend Development</b>.
 </p>
 
 <img src='https://github.com/pranshi112/pranshi112/blob/master/assets/code.gif' width='70px' height='85px'>
