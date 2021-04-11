@@ -8,18 +8,13 @@
   <em>
     I am an undergraduate from <a href="https://amu.ac.in/principal.jsp?did=10147"> <b>Zakir Husain College of Engineering and Technology</b>, Aligarh</a>. <br> 
     A self-motivated individual with an interest in <b>Technology</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Developer.gif" width="30px"> who aims a <b>better version</b> of herself <b>each day.</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Medal.gif" width="20px"> <br>
-    An Open-source enthusiast with skills in <b>Python, C++</b> and <b>Frontend.</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Rocket.gif" width="18px">
+    An AR/VR enthusiast along with skills in <b>C/C++</b>, <b>Unity3D</b> and <b>Frontend Development</b>. <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
 <br>
 
 ![Pranshi's github stats](https://github-readme-stats.vercel.app/api?username=pranshi112&show_icons=true&hide_border=true)
-
-<br>
-
-- <img alt="GIF" src="https://github.com/pranshi112/pranshi112/blob/master/assets/headbang.gif" width="20vw" /> I’m looking to collaborate on various Open-source projects.
-- <img alt="GIF" src="https://github.com/pranshi112/pranshi112/blob/master/assets/happy.gif" width="20vw" /> Fun fact: I don't always study, sometimes it's just <img src='https://github.com/pranshi112/pranshi112/blob/master/assets/netflix.gif' width='55px' height='25px'>
 
 <br>
 
