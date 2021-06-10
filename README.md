@@ -8,7 +8,7 @@
   <em>
     I am an undergraduate from <a href="https://amu.ac.in/principal.jsp?did=10147"> <b>Zakir Husain College of Engineering and Technology</b>, Aligarh</a>. <br> 
     A self-motivated individual with an interest in <b>Technology</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Developer.gif" width="30px"> who aims a <b>better version</b> of herself <b>each day.</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Medal.gif" width="20px"> <br>
-    An AR/VR enthusiast along with skills in <b>C/C++</b>, <b>Unity3D</b> and <b>Frontend Development</b>. <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Rocket.gif" width="18px">
+    An AR/VR enthusiast along with skills in <b>C#</b>, <b>C/C++</b>, <b>Unity3D</b> and <b>Frontend Development</b>. <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
