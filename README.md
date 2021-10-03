@@ -14,7 +14,7 @@
 
 <br>
 
-![Pranshi's github stats](https://github-readme-stats.vercel.app/api?username=pranshi112&show_icons=true&hide_border=true)
+![Pranshi's github stats](https://github-readme-stats.vercel.app/api?username=pranshi112&theme=github_dark&show_icons=true)
 
 <br>
 
