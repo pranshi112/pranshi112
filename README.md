@@ -1,24 +1,22 @@
-# Pranshi Jindal&nbsp;<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/mario.gif" width="30px">
+# Hello From The Virtual World!<img src="/assets/hello.gif" width="35px">
 
-<img align="right" alt="COFFEE INTO CODE" src="https://github.com/pranshi112/pranshi112/blob/master/assets/code.gif" width="170" height="200" />
+<img src="/assets/mario.gif" width="1000"><br>
 
-### <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/earth.gif" width="24px">
-
-<p>
+<p>  
   <em>
-    I am an undergraduate from <a href="https://amu.ac.in/principal.jsp?did=10147"> <b>Zakir Husain College of Engineering and Technology</b>, Aligarh</a>. <br> 
-    A self-motivated individual with an interest in <b>Technology</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Developer.gif" width="30px"> who aims a <b>better version</b> of herself <b>each day.</b> <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Medal.gif" width="20px"> <br>
-    An AR/VR enthusiast along with skills in <b>C#</b>, <b>C/C++</b>, <b>Unity3D</b> and <b>Frontend Development</b>. <img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Rocket.gif" width="18px">
-  </em>  
+  I'm a <b>Gamer</b> who enjoys both playing & making games. I'm also fascinated by & develop <b>Augmented Reality</b> experiences. <img src="/assets/Developer.gif" width="35px"><br>
+  Majority of the time, you'll find me in the <b>Virtual World</b>. <img src="/assets/headset.gif" width="25px"><br>
+  My work inspires me to <b>push harder</b> and become a <b>better version</b> of myself every day. <img src="/assets/stars.gif" width="80px"> <br>
+  </em>
 </p>
 
 <br>
 
 ![Pranshi's github stats](https://github-readme-stats.vercel.app/api?username=pranshi112&theme=github_dark&show_icons=true)
 
-<br>
+# Let's talk about Virtuality!<img src="/assets/spongebob.gif" height="55px">
 
-# Connect with me<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/Handshake.gif" height="32px">
-
-  | [<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pranshi-jindal-128526198/) | [<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@pranshi112) | [<img src="https://github.com/pranshi112/pranshi112/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:apranshi11@gmail.com)
-|:---:|:---:|:---:|
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo">](https://www.linkedin.com/in/pranshi-jindal-128526198/) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo">](mailto:apranshi11@gmail.com) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Logo">](https://t.me/pranshi112) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">](https://medium.com/@pranshi112)
