@@ -5,8 +5,8 @@
 <p>  
   <em>
   I'm a <b>Gamer</b> who enjoys both playing & making games. I'm also fascinated by & develop <b>Augmented Reality</b> experiences. <img src="/assets/Developer.gif" width="35px"><br>
-  Majority of the time, you'll find me in the <b>Virtual World</b>. <img src="/assets/headset.gif" width="25px"><br>
   My work inspires me to <b>push harder</b> and become a <b>better version</b> of myself every day. <img src="/assets/stars.gif" width="80px"> <br>
+  Majority of the time, you'll find me in the <b>Virtual World</b>. <img src="/assets/headset.gif" width="25px"><br>
   </em>
 </p>
 
